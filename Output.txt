@@ -1,0 +1,547 @@
+OUTPUT
+
+***********************************************************************************************
+			 COVID BED AVAILABILITY AND BOOKING SYSTEM			
+***********************************************************************************************
+Enter you identity: 
+1.Authority
+2.Citizen
+0.Exit
+1
+This is for Admins
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Enter Authority Name: 
+admin
+Enter password: 
+DOCTOR
+Incorrect username or password
+Do you want to continue?(main)
+1.Yes	0.No
+1
+Enter you identity: 
+1.Authority
+2.Citizen
+0.Exit
+1
+This is for Admins
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Enter Authority Name: 
+ADMIN
+Enter password: 
+doctor
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+Hospital name: Mumbai Hospital 1	Contact no:945678323	Hospital address City Hospital, SaiNath Nagar,Mumbai.
+
+Hospital name: Mumbai Hospital 2	Contact no:866848643	Hospital address City Hospital,Thane,Mumbai.
+
+Hospital name: Mumbai Hospital 3	Contact no:866854642	Hospital address City Hospital, Powai,Mumbai.
+
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+1
+enter hospital name : RUBY HOSPITAL
+enter hospital Id : 4
+enter phone number : 123
+enter address : BORIVALI,MUMBAI
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+Hospital name: Mumbai Hospital 1	Contact no:945678323	Hospital address City Hospital, SaiNath Nagar,Mumbai.
+
+Hospital name: Mumbai Hospital 2	Contact no:866848643	Hospital address City Hospital,Thane,Mumbai.
+
+Hospital name: Mumbai Hospital 3	Contact no:866854642	Hospital address City Hospital, Powai,Mumbai.
+
+Hospital name: RUBY HOSPITAL	Contact no:123	Hospital addressBORIVALI,MUMBAI
+
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+1
+hospital deleted
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+2
+hospital deleted
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+2
+Enter the hospital ID to be deleted:
+4
+hospital deleted
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+4
+Hospital name: Mumbai Hospital 3	Contact no:866854642	Hospital address City Hospital, Powai,Mumbai.
+
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name: 
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name: 
+Age: 0
+--------------------------------------------------
+------------------------------------------------
+Name: 
+Age: 0
+--------------------------------------------------
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge: 
+SACHIN
+No patient hospitalized
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+0
+Continue?(admin) 
+1.Yes	0.No
+0
+Do you want to continue?(main)
+1.Yes	0.No
+1
+Enter you identity: 
+1.Authority
+2.Citizen
+0.Exit
+2
+This is for Citizens
+================================================================================================ 
+|  HOPING TO FULLFILL YOUR REQUIREMENT , WE WILL SURELY TRY OUR BEST!                          | 
+|  Please consult doctor and take medicines.                                                   |
+|  Have proper diet and eat lots of fruits.                                                    |
+|  Do Yoga and meditation , it helps in fast recovery by creating positive environment .       |
+|  If you find any sort of symptoms consult your doctor immediately.                           |
+|  Take care!!!!                                                                               |
+================================================================================================
+
+
+Don't worry we'll surely arrange a bed for you.Kindly complete the further procedure
+Enter details
+------------------------------------------------
+Enter name: SACHIN
+Enter age: 46
+Enter Contact number : 147
+Enter CT SCORE: 14
+Enter O2level: 87
+Comorbidity (1-yes/0-no): 0
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available: 
+Hospital ID is: 3   Hospital Phone No is: 866854642    Hospital address is:  City Hospital, Powai,Mumbai.
+
+Taking your factors into consideration,we suggest you to be home quarantined
+Please consult doctor and take medicines
+Have proper diet and eat lot of fruits
+Do yoga and meditation it helps in fast recovery
+If any sort of pain increases consult your doctor immediately
+Take care!!!!
+You need to be Home Quarantine
+Continue?(citizen)
+1.Yes	0.No
+1
+Enter details
+------------------------------------------------
+Enter name: VIRAT
+Enter age: 32
+Enter Contact number : 258
+Enter CT SCORE: 19
+Enter O2level: 85
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available: 
+Hospital ID is: 3   Hospital Phone No is: 866854642    Hospital address is:  City Hospital, Powai,Mumbai.
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability: 
+Total no of beds available in the city are: 3
+ Do you want to book bed?(Y/N)Y
+2
+Bed is being allocated to you
+Hospital name: Mumbai Hospital 3	Contact no:866854642	Hospital address City Hospital, Powai,Mumbai.
+
+Continue?(citizen)
+1.Yes	0.No
+1
+Enter details
+------------------------------------------------
+Enter name: ROHIT
+Enter age: 56
+Enter Contact number : 259
+Enter CT SCORE: 3
+Enter O2level: 74
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available: 
+Hospital ID is: 3   Hospital Phone No is: 866854642    Hospital address is:  City Hospital, Powai,Mumbai.
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability: 
+Total no of beds available in the city are: 2
+ Do you want to book bed?(Y/N)Y
+1
+Bed is being allocated to you
+Hospital name: Mumbai Hospital 3	Contact no:866854642	Hospital address City Hospital, Powai,Mumbai.
+
+Continue?(citizen)
+1.Yes	0.No
+1
+Enter details
+------------------------------------------------
+Enter name: AJINKYA
+Enter age: 18
+Enter Contact number : 1456
+Enter CT SCORE: 24
+Enter O2level: 40
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available: 
+Hospital ID is: 3   Hospital Phone No is: 866854642    Hospital address is:  City Hospital, Powai,Mumbai.
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability: 
+Total no of beds available in the city are: 1
+ Do you want to book bed?(Y/N)Y
+0
+Bed is being allocated to you
+Hospital name: Mumbai Hospital 3	Contact no:866854642	Hospital address City Hospital, Powai,Mumbai.
+
+Continue?(citizen)
+1.Yes	0.No
+1
+Enter details
+------------------------------------------------
+Enter name: SMRITI
+Enter age: 40
+Enter Contact number : 14789
+Enter CT SCORE: 12
+Enter O2level: 66
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available: 
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability: 
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+
+You are added to waiting list 
+-------------------------------------------Continue?(citizen)
+1.Yes	0.No
+1
+Enter details
+------------------------------------------------
+Enter name: MITHALI
+Enter age: 97
+Enter Contact number : 14569
+Enter CT SCORE: 12
+Enter O2level: 45
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available: 
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability: 
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+You are added to waiting list 
+-------------------------------------------Continue?(citizen)
+1.Yes	0.No
+1
+Enter details
+------------------------------------------------
+Enter name: SHEFALI
+Enter age: 25
+Enter Contact number : 1478
+Enter CT SCORE: 24
+Enter O2level: 96
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available: 
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability: 
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+You are added to waiting list 
+-------------------------------------------Continue?(citizen)
+1.Yes	0.No
+1
+Enter details
+------------------------------------------------
+Enter name: HARDIK
+Enter age: 45
+Enter Contact number : 147
+Enter CT SCORE: 9
+Enter O2level: 47
+Comorbidity (1-yes/0-no): 1
+--------------------------------------------------
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Display hospitals with beds available: 
+
+Checking your criticality.............................You require a bed!
+Checking for bed availability: 
+Total no of beds available in the city are: 0
+ Do you want to book bed?(Y/N)Y
+Sorry all beds are occupied and waiting list is full
+Continue?(citizen)
+1.Yes	0.No
+0
+Do you want to continue?(main)
+1.Yes	0.No
+1
+Enter you identity: 
+1.Authority
+2.Citizen
+0.Exit
+1
+This is for Admins
+Enter your region
+1.Mumbai
+2.Pune
+3.Nashik
+1
+Enter Authority Name: 
+ADMIN
+Enter password: 
+doctor
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name: VIRAT
+Age: 32
+--------------------------------------------------
+------------------------------------------------
+Name: ROHIT
+Age: 56
+--------------------------------------------------
+------------------------------------------------
+Name: AJINKYA
+Age: 18
+--------------------------------------------------
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge: 
+VIRAT
+Patient is discharged
+Update and bed allocated confirmation send to :: SMRITI
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge: 
+AJINKYA
+Patient is discharged
+Update and bed allocated confirmation send to :: MITHALI
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge: 
+HARDIK
+Patient not found
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+5
+Enter patient name to Discharge: 
+ROHIT
+Patient is discharged
+Update and bed allocated confirmation send to :: SHEFALI
+Continue?(admin) 
+1.Yes	0.No
+1
+
+1.Add hospital
+2.Delete hospital
+3.Display patient
+4.List of all hospitals in city
+5.Discharge patient
+0.Exit
+3
+------------------------------------------------
+Name: SMRITI
+Age: 40
+--------------------------------------------------
+------------------------------------------------
+Name: SHEFALI
+Age: 25
+--------------------------------------------------
+------------------------------------------------
+Name: MITHALI
+Age: 97
+--------------------------------------------------
+Continue?(admin) 
+1.Yes	0.No
+0
+Do you want to continue?(main)
+1.Yes	0.No
+0
